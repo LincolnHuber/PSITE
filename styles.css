@@ -1,0 +1,12 @@
+body 
+{
+  background-color: rgb(157, 253, 137);
+  color: rgb(0, 0, 0);
+    text-shadow:
+    -1px -1px 0 white,
+     1px -1px 0 white,
+    -1px  1px 0 white,
+     1px  1px 0 white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}

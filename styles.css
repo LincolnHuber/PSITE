@@ -1,9 +1,21 @@
+.logo 
+{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 250px;
+  height: 150px;
+  z-index: 10;
+}
+
+
+
 .navbar 
 {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: rgb(255, 147, 46);
+  background-color: rgb(139, 139, 139);
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -25,13 +37,13 @@
 
 .navbar a:hover 
 {
-  background-color: rgb(250, 121, 0);
+  background-color: rgb(104, 104, 104);
 }
 
 
 body 
 {
-  background-color: rgb(180, 255, 249);
+  background-color: rgb(245, 245, 245);
   color: rgb(0, 0, 0);
     text-shadow:
     -1px -1px 0 white,
